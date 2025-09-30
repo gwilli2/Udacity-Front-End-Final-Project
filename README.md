@@ -101,3 +101,5 @@ valid email address = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
 **Note that this regex is NOT a secure method to counter XSS attacks in your application. This is a general test to be used for this course but should not be your main line of defense in a production application.**
 
 If an input fails validation, an error message should appear, giving the user details on why the submission failed. These should be updated with the "emailError" div and the "messageError" div.
+
+Completed the project without directly editing any of the html nor css. All content is created by the scripts.js file only.
